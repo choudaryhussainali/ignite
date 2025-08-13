@@ -17,7 +17,7 @@ into the following categories:
 3. You would like to improve the documentation. This is no less important than improving the library itself!
    If you find a typo in the documentation, do not hesitate to submit a GitHub pull request.
 
-4. You would like propose a new feature and implement it
+4. You would like to propose a new feature and implement it
 
    - Post about your intended feature, and we shall discuss the design and
      implementation. Once we agree that the plan looks good, go ahead and implement it.
